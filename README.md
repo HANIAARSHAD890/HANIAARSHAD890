@@ -17,61 +17,6 @@ I enjoy building clean, scalable software and continuously exploring new technol
 
 ---
 
-## 🧑‍💻 Experience
-
-### Flutter Intern — *UET Game Studio*
-**Mar 2025 – Jul 2025**
-- Developed mobile applications using **Flutter**
-- Front-end and mobile UI development
-
-### Junior Software Engineer — *BilNow Medical Billing System*
-**Jun 2024 – Oct 2024**
-- Developed backend features using **C# & .NET**
-- Worked with **databases, APIs, debugging, and testing**
-- Participated in **code reviews and documentation**
-- Followed clean coding practices
-
-### Teaching Assistant — *UET Lahore*
-**Mar 2025 – May 2025**
-- Guided juniors in **Programming Fundamentals (C++)**
-- Assisted in labs and problem-solving sessions
-
----
-
-## 🏗️ Projects
-
-### 🔹 MCP Unified Server & Agentic Workflows
-**Dec 2025 – Jan 2026**
-- Unified four projects into a **single MCP-based agentic workflow system**
-- Demonstrated coordinated **multi-agent processing**
-- Presented at **UET Open House Evaluation**
-
-### 🔹 Smart Answering Research System
-**Oct 2025 – Jan 2026**
-- Developed a **RAG-based research chatbot**
-- Provided authentic, context-aware answers from verified sources
-- Followed software project management practices
-- Presented at **UET Open House**
-- 🔗 **GitHub Repository:** https://github.com/Maryyam18/Smart-Research-Answering-System
-
-### 🔹 Pilgrim Health Predictor (AI Project)
-**May 2025**
-- AI-powered system predicting **health risks for Hajj & Umrah pilgrims**
-- Decision Tree model with advanced feature engineering
-- Integrated **Google Gemini API**
-- Streamlit-based web application
-- 🔗 **GitHub Repository:** https://github.com/HANIAARSHAD890/ARHajj-Augmented-Reality-AI-for-Hajj-
-
-### 🔹 Messify – Mobile App
-**Dec 2024 – Jan 2025**
-- Flutter-based **mess management mobile application**
-- Menu display, attendance, and billing features
-- 🔗 **GitHub Repository:** https://github.com/HANIAARSHAD890/MobileAPP_Messify
-
----
-
-## 🧠 Skills & Tools
-
 ## 🧠 Skills & Tools
 
 ### 💻 Languages & Frameworks
@@ -114,6 +59,59 @@ I enjoy building clean, scalable software and continuously exploring new technol
 - Communication  
 - Time Management  
 - Adaptability  
+
+---
+
+## 🏗️ Projects
+
+### 🔹 MCP Unified Server & Agentic Workflows
+**Dec 2025 – Jan 2026**
+- Unified four projects into a **single MCP-based agentic workflow system**
+- Demonstrated coordinated **multi-agent processing**
+- Presented at **UET Open House Evaluation**
+
+### 🔹 Smart Answering Research System
+**Oct 2025 – Jan 2026**
+- Developed a **RAG-based research chatbot**
+- Provided authentic, context-aware answers from verified sources
+- Followed software project management practices
+- Presented at **UET Open House**
+- 🔗 **GitHub Repository:** https://github.com/Maryyam18/Smart-Research-Answering-System
+
+### 🔹 Pilgrim Health Predictor (AI Project)
+**May 2025**
+- AI-powered system predicting **health risks for Hajj & Umrah pilgrims**
+- Decision Tree model with advanced feature engineering
+- Integrated **Google Gemini API**
+- Streamlit-based web application
+- 🔗 **GitHub Repository:** https://github.com/HANIAARSHAD890/ARHajj-Augmented-Reality-AI-for-Hajj-
+
+### 🔹 Messify – Mobile App
+**Dec 2024 – Jan 2025**
+- Flutter-based **mess management mobile application**
+- Menu display, attendance, and billing features
+- 🔗 **GitHub Repository:** https://github.com/HANIAARSHAD890/MobileAPP_Messify
+
+---
+
+## 🧑‍💻 Experience
+
+### Flutter Intern — *UET Game Studio*
+**Mar 2025 – Jul 2025**
+- Developed mobile applications using **Flutter**
+- Front-end and mobile UI development
+
+### Junior Software Engineer — *BilNow Medical Billing System*
+**Jun 2024 – Oct 2024**
+- Developed backend features using **C# & .NET**
+- Worked with **databases, APIs, debugging, and testing**
+- Participated in **code reviews and documentation**
+- Followed clean coding practices
+
+### Teaching Assistant — *UET Lahore*
+**Mar 2025 – May 2025**
+- Guided juniors in **Programming Fundamentals (C++)**
+- Assisted in labs and problem-solving sessions
 
 ---
 
