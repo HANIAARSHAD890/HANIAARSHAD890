@@ -30,8 +30,6 @@ I enjoy building clean, scalable software and continuously exploring new technol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
 </p>
 
----
-
 ### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
@@ -39,8 +37,6 @@ I enjoy building clean, scalable software and continuously exploring new technol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
-
----
 
 ### ☁️ Tools & Platforms
 <p align="left">
