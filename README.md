@@ -34,8 +34,8 @@ I enjoy building clean, scalable software and continuously exploring new technol
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" />
 </p>
 
 ### ☁️ Tools & Platforms
@@ -47,6 +47,8 @@ I enjoy building clean, scalable software and continuously exploring new technol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notion.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/railway.svg" width="40" />
 </p>
 
 ### 🤝 Soft Skills
