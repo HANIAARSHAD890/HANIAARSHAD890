@@ -111,23 +111,6 @@ I enjoy building clean, scalable software and continuously exploring new technol
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HANIAARSHAD890&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANIAARSHAD890&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HANIAARSHAD890&theme=radical" />
-</p>
-
----
-
 ## 📫 How to Reach Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/haniaarshad/
 - 📧 **Email:** haniaarshad890@gmail.com
