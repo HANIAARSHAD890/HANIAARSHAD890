@@ -19,11 +19,6 @@ I enjoy building clean, scalable software and continuously exploring new technol
 
 ## 🧑‍💻 Experience
 
-### Flutter Developer — *UET Game Studio*
-**Dec 2025 – Present**
-- Working on the **MVP of a mobile application**
-- Flutter & Android development
-
 ### Flutter Intern — *UET Game Studio*
 **Mar 2025 – Jul 2025**
 - Developed mobile applications using **Flutter**
@@ -57,6 +52,7 @@ I enjoy building clean, scalable software and continuously exploring new technol
 - Provided authentic, context-aware answers from verified sources
 - Followed software project management practices
 - Presented at **UET Open House**
+- 🔗 **GitHub Repository:** https://github.com/Maryyam18/Smart-Research-Answering-System
 
 ### 🔹 Pilgrim Health Predictor (AI Project)
 **May 2025**
@@ -64,35 +60,54 @@ I enjoy building clean, scalable software and continuously exploring new technol
 - Decision Tree model with advanced feature engineering
 - Integrated **Google Gemini API**
 - Streamlit-based web application
+- 🔗 **GitHub Repository:** https://github.com/HANIAARSHAD890/ARHajj-Augmented-Reality-AI-for-Hajj-
 
 ### 🔹 Messify – Mobile App
 **Dec 2024 – Jan 2025**
 - Flutter-based **mess management mobile application**
 - Menu display, attendance, and billing features
+- 🔗 **GitHub Repository:** https://github.com/HANIAARSHAD890/MobileAPP_Messify
 
 ---
 
 ## 🧠 Skills & Tools
 
+## 🧠 Skills & Tools
+
 ### 💻 Languages & Frameworks
-- Flutter & Dart  
-- C#, .NET Core, ASP.NET APIs  
-- C++, Python  
-- Angular (basic)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+</p>
+
+---
 
 ### 🗄️ Databases
-- MS SQL Server  
-- PostgreSQL  
-- MySQL  
-- MongoDB  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+</p>
+
+---
 
 ### ☁️ Tools & Platforms
-- Git & GitHub  
-- Docker  
-- Postman  
-- Jira, Slack  
-- Railway  
-- GitHub Pages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ### 🤝 Soft Skills
 - Team Collaboration  
@@ -121,15 +136,8 @@ I enjoy building clean, scalable software and continuously exploring new technol
 
 ## 📫 How to Reach Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/haniaarshad/
-- 🤝 Open to **internships, junior roles & collaborations**
-
----
-
-## 🌱 Current Focus
-- 📱 Flutter Mobile Development  
-- ⚙️ Backend APIs with .NET  
-- 🤖 AI-integrated applications  
-- 🚀 Actively seeking growth opportunities
+- 📧 **Email:** haniaarshad890@gmail.com
+- 🤝 Open to **jobs, junior roles & collaborations**
 
 ---
 
