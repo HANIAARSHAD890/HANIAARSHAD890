@@ -8,7 +8,7 @@ I enjoy building clean, scalable software and continuously exploring new technol
 ---
 
 ## 🚀 About Me
-- 🎓 **5th Semester – BS Computer Science, UET Lahore**
+- 🎓 **6th Semester – BS Computer Science, UET Lahore**
 - 💼 **Mobile App Developer | Flutter | Kotlin**
 - 🧑‍🏫 **Ex Teaching Assistant** (Programming Fundamentals – C++)
 - 🧠 Strong interest in **Mobile App Development, Backend Systems & AI**
