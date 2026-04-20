@@ -1,5 +1,5 @@
 # 👩‍💻 Hania Arshad
-### Flutter Developer | .NET Backend Developer | Tech Explorer | Problem Solver
+### Android Developer | Flutter Developer | .NET Backend Developer | Tech Explorer | Problem Solver
 
 Welcome to my GitHub!  
 I’m a passionate **Computer Science undergraduate at UET Lahore (BS CS ’27)** with hands-on experience in **Flutter mobile development**, **.NET backend systems**, and **AI-driven projects**.  
